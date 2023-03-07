@@ -1,2 +1,2 @@
-# ICE-1203
-Codes for the course ICE-1203 taught in Department of Information &amp; Communication Engineering , PUST
+# ICE-1204
+Codes for the course ICE-1204 taught in Department of Information &amp; Communication Engineering , PUST
